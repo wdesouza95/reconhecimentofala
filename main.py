@@ -1,6 +1,6 @@
 import speech_recognition as sr
 
-# - criar um "reconhecedor"
+# - criar um "reconhecedor, versao do wesley"
 rec = sr.Recognizer()
 
 # - ouvir o audio do microfone
